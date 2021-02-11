@@ -146,6 +146,9 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _pages/talkmap.html  # don't generate the talkmap
+  - talkmap
+  - markdown_generator
 keep_files:
   - .git
   - .svn
