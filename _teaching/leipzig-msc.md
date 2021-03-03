@@ -7,6 +7,8 @@ venue: "Leipzig University, Computer Science Institute, Intelligent Systems Grou
 date: 2020-12-31
 location: "Leipzig, Germany"
 ---
+
+This summarises my teaching experience for MSc students at Leipzig University
 {% include toc_inline %}
 
 
