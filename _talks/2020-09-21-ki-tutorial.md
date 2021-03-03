@@ -2,7 +2,7 @@
 title: "Tutorial on Multi-Context Stream Reasoning"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2020-09-21-tutorial
+permalink: /talks/2020-09-21-ki-tutorial
 venue: "43rd GErman Conference on Artificial Intelligence"
 date: 2020-09-21
 location: "Bamberg, Germany"
