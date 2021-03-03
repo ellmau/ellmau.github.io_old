@@ -6,9 +6,9 @@ permalink: /teaching/leipzig-msc
 venue: "Leipzig University, Computer Science Institute, Intelligent Systems Group"
 date: 2020-12-31
 location: "Leipzig, Germany"
+excerpt: "Summary of my experience with MSc students at Leipzig University"
 ---
 
-This summarises my teaching experience for MSc students at Leipzig University
 {% include toc_inline %}
 
 

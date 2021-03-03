@@ -6,6 +6,7 @@ permalink: /teaching/leipzig-bsc
 venue: "Leipzig University, Computer Science Institute, Intelligent Systems Group"
 date: 2020-12-31
 location: "Leipzig, Germany"
+excerpt: "A short overview on the BSc course experience I had at Leipzig University"
 ---
 
 Knowledge Based Systems
