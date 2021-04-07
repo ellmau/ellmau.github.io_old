@@ -12,4 +12,4 @@ redirect_from:
 
 <embed src="{{ site.baseurl }}/files/cv_ellmauthaler.pdf" width="600" height="700" type='application/pdf'> 
 
-You can download the my cv in [english]({{ site.baseurl }}/files/cv_ellmauthaler.pdf) and [german]({{ site.baseurl }}/files/cv_ellmauthaler_de.pdf).
+You can download my cv in [english]({{ site.baseurl }}/files/cv_ellmauthaler.pdf) and [german]({{ site.baseurl }}/files/cv_ellmauthaler_de.pdf).
