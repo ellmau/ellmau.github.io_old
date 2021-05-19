@@ -21,7 +21,7 @@ This winter term module consists of a lecture, a seminar, and a practical course
 > 2017 - 2020
 
 In this seminar the students should have learned the syntax and semantics of answer set programming.
-Then they should be able to model every-day combinatorial planning problems with ASP and solve them efficiently with the solver [clingo](https://potassco.org/clingo/).
+They should be able to model every-day combinatorial planning problems with ASP and solve them efficiently with the solver [clingo](https://potassco.org/clingo/).
 
 During my certification process for the Saxon Higher Education Didactics Certificate, this course got redesigned as a blended learning experience which utilised e-learning technologies to enhance in-person learning parts.
 In 2020, due to the COVID-19 pandemic, the course focused on the e-teaching elements. The in-person sessions have been realised with synchronuous online conferences. 
