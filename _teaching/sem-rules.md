@@ -22,6 +22,6 @@ We offer a variety of topics, including conceptional and modelling aspects as we
 
 The goal of this course is to read, analyse, and understand a given scientific paper and prepare a report as well as a presentation of the topic. Therefore additional skills like basic literature search and the acquisition of knowledge on underlying concepts will be required and trained. 
 
-Further information
+Official seminar-website
 =====
 please see the official website at [ICCL](https://iccl.inf.tu-dresden.de/web/Seminar_Rule-Based_Paradigms_in_KR_(WS2021))
