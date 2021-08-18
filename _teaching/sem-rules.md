@@ -2,7 +2,7 @@
 title: "Rule-Based Paradigms in KR"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/2021-rules
+permalink: /teaching/sem-rules
 venue: "TU Dresden, Faculty of Computer Science, Knowledge-Based Systems Group"
 date: 2021-08-01
 location: "Dresden, Germany"
