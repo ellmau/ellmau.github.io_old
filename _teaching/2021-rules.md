@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/2021-rules
 venue: "TU Dresden, Faculty of Computer Science, Knowledge-Based Systems Group"
-date: 2021-10-01
+date: 2021-08-01
 location: "Dresden, Germany"
 excerpt: "Seminar on various rule-based paradigms in knowledge representation and reasoning"
 ---
