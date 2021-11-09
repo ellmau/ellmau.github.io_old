@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2021-02-09
+title: "Terms, Privacy Policy, and Impressum"
+modified: 2021-11-09
 ---
 
 {% include base_path %}
@@ -41,3 +41,13 @@ Please note that this webpage does not utilise any analytics interface and that 
 
 ### Profile picture
 Image Copyright [studioline Photostudio GmbH](https://studioline.de/).
+
+## Impressum
+due to § 5 TMG in Germany
+### Owner and Contact
+Dr. rer. nat. Stefan Ellmauthaler  
+Schweriner Straße 37  
+01067 Dresden  
+
+eMail: stefan.ellmauthaler@gmail.com  
+Phone: +49 176 36998023
