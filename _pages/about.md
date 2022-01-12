@@ -16,4 +16,5 @@ My research interests are knowledge representation, logic programming, rule-base
 My practical and technical interests are currently mainly focused on programming [Rust](https://rust-lang.org) and on having a robust production-system, based on [NixOS](https://nixos.org) with flakes. I tend to keep a couple of projects on GitHub private, but I am open to invite people if they inform me about their interest.
 Currently I have the following shareable repositories:
 * My `NixOS` configuration
-* The `AoC 2021` solutions to every part of all 25 puzzles of the problems given for [2021](https://adventofcode.com/2021)
+
+You can find [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd/) and [my solutions](https://github.com/ellmau/adventofcode) to every part of all 25 `AoC 2021` puzzles of the problems given for [2021](https://adventofcode.com/2021) at the respective [GitHub](https://github.com)-hosted sites.
