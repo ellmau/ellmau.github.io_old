@@ -6,7 +6,7 @@ permalink: /talks/2023-09-02-ADF-BDD-dev
 venue: "The Fourth Workshop on Explainable Logic-Based Knowledge Representation co-located with the Twentieth International Conference on Principles of Knowledge Representation and Reasoning"
 date: 2023-09-02
 location: "Rhodes, Greece"
-excerpt: "Introduction and presentation of [adf-bdd.dev](https://adf-bdd.dev) by a talk about the accepted [paper]()"
+excerpt: "Introduction and presentation of [adf-bdd.dev](https://adf-bdd.dev) by a talk about the accepted [paper](https://drive.google.com/file/d/1Ty8pMWIs7WYHvGhBMMz3X7-dUAZ_vJpu)"
 ---
 This gives an overview of the recent research on the representation and visualisation of Abstract Dialectical Frameworks (ADFs) with Binary Decision Diagrams (BDDs).
 It reviews and presents the results of the XLoKR (Workshop on Explainable Logic-Based Knowledge Represenation) [paper](https://drive.google.com/file/d/1Ty8pMWIs7WYHvGhBMMz3X7-dUAZ_vJpu).
