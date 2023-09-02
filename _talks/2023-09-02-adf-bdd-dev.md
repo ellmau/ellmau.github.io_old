@@ -2,9 +2,9 @@
 title: "ADF-BDD.DEV: Debug Abstract Dialectical Frameworks with Binary Decision Diagrams"
 collection: talks
 type: "Workshop Talk"
-permalink: /talks/2023-09-02-ADF-BDD.dev
+permalink: /talks/2023-09-02-ADF-BDD-dev
 venue: "The Fourth Workshop on Explainable Logic-Based Knowledge Representation co-located with the Twentieth International Conference on Principles of Knowledge Representation and Reasoning"
-date: 2023-05-02
+date: 2023-09-02
 location: "Rhodes, Greece"
 excerpt: "Introduction and presentation of [adf-bdd.dev](https://adf-bdd.dev) by a talk about the accepted [paper]()"
 ---
