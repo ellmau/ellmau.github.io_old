@@ -13,4 +13,6 @@ I am a postdoctoral researcher in the Knowledge-based Systems group of Prof. Dr.
 
 My research interests are knowledge representation, logic programming, rule-based reasoning, multi-context reasoning, nonmonotonic reasoning, and (abstract) argumentation theory.
 
+I am currently co-organising the Fifth International Workshop on Systems and Algorithms for Formal Argumentation ([SAFA 2024](http://safa2024.argumentationcompetition.org/)). 
+
 My practical and technical interests are currently mainly focused on programming [Rust](https://rust-lang.org) and on having a robust production-system, based on [NixOS](https://nixos.org) with flakes. You can find [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd/), my current [NixOS setup](https://github.com/ellmau/nixos), and [my solutions](https://github.com/ellmau/adventofcode) to every part of all 25 `AoC 2021` puzzles of the problems given for [2021](https://adventofcode.com/2021) at the respective [GitHub](https://github.com)-hosted sites.
