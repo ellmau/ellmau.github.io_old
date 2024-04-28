@@ -1,4 +1,4 @@
-œ---
+---
 permalink: /
 title: "Stefan Ellmauthaler"
 excerpt: "About me"
